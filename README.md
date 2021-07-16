@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div> 
- 
-  ![Snake animation](https://github.com/DevSakazaki/blob/output/github-contribution-grid-snake.svg)
- 
+<div>
+    ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 </div>
