@@ -6,15 +6,10 @@
   <h2 align="center"><b></b></h2>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki)](https://github.com/anuraghazra/github-readme-stats)  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevSakazaki&show_icons=true&locale=en" alt="DevSakazaki" /></p>
+
 
  ##
-
-<p>
-  <h2 align="center"><b></b></h2>
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevSakazaki&show_icons=true&locale=en" alt="DevSakazaki" /></p>
 
  <div> 
  
