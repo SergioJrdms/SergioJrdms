@@ -13,7 +13,7 @@
 
  <div> 
  
- 
-  ![Snake animation](https://github.com/DevSakazaki/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/DevSakazaki/DevSakazaki/blob/output/github-contribution-grid-snake.svg)
+
  
 </div>
