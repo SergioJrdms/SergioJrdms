@@ -5,7 +5,6 @@
 <p>
   <h2 align="center"><b></b></h2>
 </p>
-<br></br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki)](https://github.com/anuraghazra/github-readme-stats)
 
     
