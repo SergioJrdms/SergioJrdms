@@ -14,6 +14,8 @@
   <h2 align="center"><b></b></h2>
 </p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevSakazaki&show_icons=true&locale=en" alt="DevSakazaki" /></p>
+
  <div> 
  
  
