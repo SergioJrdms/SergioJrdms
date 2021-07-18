@@ -11,6 +11,7 @@ Hey! My name is Sakazaki, I'm Front-End Developer and I'm from São Paulo, Brazi
 
 
 ### 🚀 Technologies
+<div style="display: inline_block">
   <img 
     align="center" 
     alt="Joao-Js" 
@@ -58,7 +59,7 @@ Hey! My name is Sakazaki, I'm Front-End Developer and I'm from São Paulo, Brazi
 <img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 </div>
 
-##
+---
 
 <br></br>
 ## 💻 Status
