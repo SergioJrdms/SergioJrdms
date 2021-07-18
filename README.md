@@ -1,5 +1,7 @@
 <h1 align="center"> 👋 Olá! Eu sou o Sakazaki! 🇧🇷</h1>
 
+<br></br>
+
 
 <h3 align="center">A frontend developer from Brazil</h3>
 
@@ -73,8 +75,14 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
                                  </div>
 
-
- ##
+##
+  
+### ⭐ A Little Bit About Me:
+  
+  <p>
+    Hey, my name is sakazaki, I'm a self-taught Web Front-End developer, I'm from São Paulo - Brazil, I'm a high school student.
+  </p>
+  
  
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
 
