@@ -6,9 +6,11 @@
   <h2 align="center"><b></b></h2>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki)](https://github.com/anuraghazra/github-readme-stats)  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=DevSakazaki&show_icons=true&locale=en" alt="DevSakazaki" /></p>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSakazaki&theme=merko&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSakazaki&theme=dark&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
  ##
