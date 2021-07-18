@@ -9,7 +9,6 @@ Hey! My name is Sakazaki, I'm Front-End Developer and I'm from São Paulo, Brazi
 
 ##
 
-<br></br>
 
 ### 🚀 Technologies
   <img 
