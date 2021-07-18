@@ -1,10 +1,10 @@
-## Olá! Eu sou o Sakazaki! 🇧🇷
+## 👋🏻 Olá! Eu sou o Sakazaki! 🇧🇷
 <br></br>
 
-### ⭐About Me
+### ⭐ About Me
 Hey! My name is Sakazaki, I'm Front-End Developer and I'm from São Paulo, Brazil, I'm a high school student and self-taught programming student!
 
- "Lets Make HIStory"
+ 🔥 "Lets Make HIStory"
 
 ##
 
@@ -54,7 +54,7 @@ Hey! My name is Sakazaki, I'm Front-End Developer and I'm from São Paulo, Brazi
 </div>
 
 <br></br>
-## Status
+## 👨🏻‍💻 Status
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSakazaki&theme=dark&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
