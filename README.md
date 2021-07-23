@@ -3,10 +3,10 @@
 <br></br>
 
 
-<h3 align="center">A frontend developer from Brazil</h3>
+<h3 align="center">A Mobile developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Front-end development**
+- 🌱 I’m currently learning **Mobile development**
 
 - 🔥 "Lets Make *History*"
 
