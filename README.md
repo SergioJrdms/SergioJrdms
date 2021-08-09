@@ -3,7 +3,7 @@
 <br></br>
 
 
-<h3 align="center">A Mobile developer from Brazil</h3>
+<h3 align="center">A Front End developer from Brazil</h3>
 
 
 - 🌱 I’m currently learning **Mobile development**
@@ -80,7 +80,7 @@
 ### ⭐ A Little Bit About Me:
   
   <p>
-    Hey, my name is sakazaki, I'm a self-taught Mobile developer, I'm from São Paulo - Brazil, I'm a high school student.
+    Hey, my name is sakazaki, I'm a self-taught Front End developer, I'm from São Paulo - Brazil, I'm a high school student.
   </p>
   
  
