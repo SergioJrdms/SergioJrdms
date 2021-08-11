@@ -6,7 +6,7 @@
 <h3 align="center">A Front End developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Mobile development**
+- 🌱 I’m currently learning **Front End Development**
 
 - 🔥 "Lets Make *History*"
 
