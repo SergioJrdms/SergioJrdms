@@ -22,6 +22,12 @@
     width="40" 
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
   />
+   <img
+     src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
+     alt="dart" width="30"
+     height="30"
+   />
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/>
   <img 
     align="center" 
     alt="Rafa-Ts" 
