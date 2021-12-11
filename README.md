@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Mobile Development**
 
-- 🔥 "Lets Make *History*"
+- 🔥 "See beyond what your eyes can see"
 
 ##
 
