@@ -86,7 +86,7 @@
 ### ⭐ A Little Bit About Me:
   
   <p>
-    Hey, my name is sakazaki, I'm a self-taught Front End developer, I'm from São Paulo - Brazil, I'm a high school student.
+    Hey, my name is sakazaki, I'm a self-taught Mobile developer, I'm from São Paulo - Brazil, I'm a high school student.
   </p>
   
  
