@@ -13,60 +13,18 @@
 ##
 
 
-  <h3 align="center">🚀 Languages and Tools:</h3> 
+  <h3 align="center">🚀 Main Languages and Tools:</h3> 
 <div style="display: inline_block" align="center">
-  <img 
-    align="center" 
-    alt="Joao-Js" 
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
-  />
-   <img
-     src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"
-     alt="dart" width="25"
-     height="25"
-   />
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/>
-  <img 
-    align="center" 
-    alt="Rafa-Ts" 
-    height="25" 
-    width="20" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"
-  />
-  <img 
-    align="center" 
-    alt="Rafa-Js" 
-    height="32" 
-    width="34" 
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-  />
-  <img 
-    align="center" 
-    alt="Joao-React" 
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
-  />
-  <img 
-    align="center" 
-    alt="Joao-HTML" 
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"
-  />
-  <img 
-    align="center" 
-    alt="Joao-CSS" 
-    height="30" 
-    width="40" 
-    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"
-  />
-<img align="center" alt="Visual Studio Code" width="30px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="center" alt="Git" width="35px" height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="center" alt="GitHub" width="35px" height="30" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</div>
+  <strong> Kotlin 
+  Firebase
+  Flutter
+  Javascript
+  Dart
+  Git
+  GitHub
+  Typescript
+  SQL <strong/> 
+  
 
 ---
 
