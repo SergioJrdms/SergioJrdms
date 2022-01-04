@@ -20,6 +20,7 @@
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" align="center" width="25" height="25"/>
   <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png?hl=pt-br" alt="flutter" align="center" width="25" height="25"/>
   <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png?_gl=1*i026*_ga*NzMyMzA4Mzc0LjE2NDAxMDQ2MDU.*_ga_V0XZL7QHEB*MTY0MTMzNjU4Mi4xLjEuMTY0MTMzNjY0NC4w&_ga=2.135009713.1375218345.1641336584-732308374.1640104605" width="25" height="25" align="center" />
+  <img src="https://developer.android.com/images/brand/Android_Robot.png" align="center" width="40" height="25" />
 
   <h5 align="center">- Others Languages and Tools:</h5> 
 
