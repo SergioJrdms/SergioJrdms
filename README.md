@@ -15,15 +15,12 @@
 
   <h3 align="center">🚀 Main Languages and Tools:</h3> 
 <div style="display: inline_block" align="center">
-  <strong> Kotlin 
-  Firebase
-  Flutter
-  Javascript
-  Dart
-  Git
-  GitHub
-  Typescript
-  SQL <strong/> 
+  
+  <img alt="Kotlin" align="center" width="23px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/kotlin/kotlin.png" />
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"alt="dart" align="center" width="25" height="25"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" align="center" width="30" height="30"/>
+  
+</div>
   
 
 ---
