@@ -43,7 +43,7 @@
  
  ##
  <div align="center">
-  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki&layout=big&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki&layout=compact&langs_count=5&theme=dark"/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSakazaki&theme=dark&show_icons=true)
 
