@@ -39,16 +39,17 @@
 ---
 
 <br></br>
-<h3 align="center"> 💻 Status:<h3>
+<h3 align="center"> 💻 Stats:<h3>
  
  ##
  <div align="center">
-  
+  <img height="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki&layout=big&langs_count=7&theme=dark"/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSakazaki&theme=dark&show_icons=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki&layout=compact&langs_count=7&theme=dark"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki&theme=dark" alt="Sakazaki Stats" />                            
- </div>
+
+                                 
+</div>
 
 ##
   
