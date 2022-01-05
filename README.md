@@ -46,7 +46,7 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSakazaki&theme=dark&show_icons=true)
 
-
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki&layout=compact&langs_count=7&theme=dark"/>
                                  </div>
 
 ##
