@@ -3,7 +3,7 @@
 <br></br>
 
 
-<h3 align="center">A Android Developer from Brazil</h3>
+<h3 align="center">A Mobile Developer from Brazil</h3>
 
 
 - 🌱 I’m currently learning **Android Development**
