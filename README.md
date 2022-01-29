@@ -6,7 +6,7 @@
 <h3 align="center">A Mobile Developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning **Flutter Mobile Development**
 
 - 🔥 "See beyond what your eyes can see"
 
