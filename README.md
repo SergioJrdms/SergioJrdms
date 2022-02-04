@@ -3,10 +3,10 @@
 <br></br>
 
 
-<h3 align="center">A Mobile Developer from Brazil</h3>
+<h3 align="center">A Android Developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Flutter Mobile Development**
+- 🌱 I’m currently learning **Flutter Android Development**
 
 - 🔥 "See beyond what your eyes can see"
 
@@ -56,7 +56,7 @@
 ### ⭐ A Little Bit About Me:
   
   <p>
-    Hey, my name is sakazaki, I'm a self-taught Mobile developer, I'm from São Paulo - Brazil, I'm a high school student.
+    Hey, my name is sakazaki, I'm a self-taught Android developer, I'm from São Paulo - Brazil, I'm a high school student.
   </p>
   
  
