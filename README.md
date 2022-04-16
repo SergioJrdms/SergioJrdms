@@ -6,7 +6,7 @@
 <h3 align="center">A Android Developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Flutter Android Development**
+- 🌱 I’m currently learning **React Native Android Development**
 
 - 🔥 "See beyond what your eyes can see"
 
