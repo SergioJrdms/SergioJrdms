@@ -6,7 +6,7 @@
 <h3 align="center">A Android Developer from Brazil</h3>
 
 
-- 🌱 I’m currently learning **Machine learning **
+- 🌱 I’m currently learning **Machine learning**
 
 - 🔥 "See beyond what your eyes can see"
 
