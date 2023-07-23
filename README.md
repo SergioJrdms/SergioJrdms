@@ -95,7 +95,7 @@ I am committed to contributing to the advancement of these fields and readily op
         </p>
 </details>
     <details open>
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>stats</h3></summary>
         <p align="center">
           <a href="https://github.com/DevSakazaki">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DevSakazaki&show_icons=true&theme=gruvbox&hide_border=true" />
