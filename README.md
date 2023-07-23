@@ -1,64 +1,108 @@
-<h1 align="center"> 👋 Hi! I am SergioJr!</h1>
-
-<br></br>
-
-
-<h3 align="center">A NLP Engineer from São Paulo</h3>
-
-
-- 🌱 I’m currently learning **Natural Language Processing**
-
-- 🔥 "Confortare, Per Audacia Ad Astra"
-
-##
-
-
-  <h3 align="center">⭐ Main Languages and Tools:</h3> 
 <div align="center">
-  <img alt="Kotlin" align="center" width="25px" src="https://resources.jetbrains.com/storage/products/company/brand/logos/Kotlin_icon.png?_gl=1*4ae63t*_ga*NzMyMzA4Mzc0LjE2NDAxMDQ2MDU.*_ga_V0XZL7QHEB*MTY0MTMzNjU4Mi4xLjAuMTY0MTMzNjU4NS4w&_ga=2.156874363.1375218345.1641336584-732308374.1640104605" />
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg"alt="dart" align="center" width="25" height="25"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" align="center" width="25" height="25"/>
-  <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png?hl=pt-br" alt="flutter" align="center" width="25" height="25"/>
-  <img src="https://resources.jetbrains.com/storage/products/company/brand/logos/IntelliJ_IDEA_icon.png?_gl=1*i026*_ga*NzMyMzA4Mzc0LjE2NDAxMDQ2MDU.*_ga_V0XZL7QHEB*MTY0MTMzNjU4Mi4xLjEuMTY0MTMzNjY0NC4w&_ga=2.135009713.1375218345.1641336584-732308374.1640104605" width="25" height="25" align="center" />
-  <img src="https://developer.android.com/images/brand/Android_Robot.png" align="center" width="40" height="25" />
-
-  <h5 align="center">- Others Languages and Tools:</h5> 
-
-  <img align="center" alt="Joao-Js" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Rafa-Ts" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"/>
-  <img align="center" alt="Rafa-Js" height="25" width="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"/>
-  <img align="center" alt="Joao-React" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>
-  <img align="center" alt="Joao-HTML" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
-  <img align="center" alt="Joao-CSS" height="25" width="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Visual Studio Code" width="25" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  <img align="center" alt="Git" width="25" height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img align="center" alt="GitHub" width="25" height="25" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-</div>
-  
-
----
-
-<br></br>
-<h3 align="center"> 💻 Stats:<h3>
- 
- ##
- <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki&layout=compact&langs_count=5&theme=dark"/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevSakazaki&theme=dark&show_icons=true)
-
-
-                                 
+<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm SergioJr</h1>
+<h4 align="center">A NLP Engineer, Data Scientist and Programmer <a href="https://portfolio-jet-chi-78.vercel.app/index.html" target="_blank">portfolio</a> for more</h4>
 </div>
 
-##
-  
-### ⭐ A Little Bit About Me:
-  
-  <p>
-    Hey, my name is sakazaki, I'm a self-taught Android developer, I'm from São Paulo - Brazil, I'm a high school student.
+-----
+<details>
+  <summary>☎️ contact me</summary>
+<div>
+  <samp>
+    <h2 align="center">you can reach me by:</h2>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/sergio-de-moura-silva-junior-5326b1216/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:sergiojunior.dms@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
+    </p>
+  <p align="center">
+      <a href="https://www.instagram.com/sergiojr.dms/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  </samp>
+</div>
+</details>
+
+<details>
+  <summary>🧮 about</summary>
+<div>
+<samp>
+<h2 align="center">About Me</h2>
+ <p align="center">
+   <p>- I am a Natural Language Processing (NLP) Engineer with a degree in Master Professional in Hardware from Microlins College and Informatics for Internet from ETEC Centro Paula Souza, where I achieved outstanding performance. During my studies, I had the opportunity to apply leadership, group and project management, communication, and teaching skills while sharing my programming knowledge with my classmates. In addition to my academic background, I pursued additional knowledge in NLP, programming, and Data Science through self-learning and courses.
+I am committed to contributing to the advancement of these fields and readily open to new opportunities that allow me to develop my potential.</p>
+
+<p>- <strong>Key Skills:</strong></p>
+<ul>
+  <p>✓ Strong skills in Natural Language Processing (Text Preprocessing, NER, sentiment analysis, text summarization, text classification, text generation, LSTMs, GRU, probabilistic and vector models, etc.)</p>
+  <p>✓ Chatbots (Rasa, Blip)</p>
+  <p>✓ Machine Learning (Classification, clustering, regression, association rules, evaluation metrics, etc.)</p>
+  <p>✓ General knowledge of Data Science (Data visualization, exploratory data analysis, statistics, linear and logistic regressions, time series, project management, storytelling, SQL databases)</p>
+  <p>✓ Deep Learning focused on NLP (Neural Networks, ANN, CNN, RNN, embeddings)</p>
+  <p>✓ Programming languages: Python, Java, JavaScript, C#, and Dart</p>
+  <p>✓ Intermediate English proficiency</p>
+</ul>
+
+<p>- <strong>Other Skills:</strong></p>
+<ul>
+  <li>✓ Leadership</li>
+  <li>✓ Team and project management</li>
+  <li>✓ Communication and teaching</li>
+  <li>✓ Teamwork and proactivity</li>
+  <li>✓ Independent, problem solver, ideator</li>
+  <li>✓ Resilience</li>
+  <li>✓ Self-taught</li>
+  <li>✓ Networking and computer maintenance</li>
+</ul>
+
+<p>- <strong>Hobbies:</strong></p>
+<ul>
+  <li>Urban Photography</li>
+  <li>Astronomy and Astrophysics</li>
+</ul>
+
+<p>- I am committed to contributing to challenges in the field of Natural Language Processing, Data Science, and Programming, and I am open to new opportunities that allow me to apply my knowledge and skills. Feel free to contact me to learn more about my experiences and how I can add value to your company.</p>
   </p>
+ </samp>
+</div>
+</details>
   
- 
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
-
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+  <samp>
+    <h2 align="center"> Github stats </h2>
+      <br/>
+    <details open>
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/DevSakazaki">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+          alt="SergioJr :: overall Top Langs " /></a>
+      </p>
+        <p align="center">
+          <a href="https://github.com/DevSakazaki">
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSakazaki&theme=gruvbox&layout=compact&hide_border=true"
+          alt="SergioJr :: Top Langs by repo" />
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevSakazaki&theme=gruvbox&layout=compact&hide_border=true"
+          alt="SergioJr :: Top Langs by commit" />
+          </a>
+        </p>
+</details>
+    <details open>
+  <summary><h3>stasistic</h3></summary>
+        <p align="center">
+          <a href="https://github.com/DevSakazaki">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DevSakazaki&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+</details>
