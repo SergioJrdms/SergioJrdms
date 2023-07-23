@@ -1,14 +1,14 @@
-<h1 align="center"> 👋 Olá! Eu sou o Sakazaki! 🇧🇷</h1>
+<h1 align="center"> 👋 Hi! I am SergioJr!</h1>
 
 <br></br>
 
 
-<h3 align="center">A Android Developer from Brazil</h3>
+<h3 align="center">A NLP Engineer from São Paulo</h3>
 
 
-- 🌱 I’m currently learning **Machine learning**
+- 🌱 I’m currently learning **Natural Language Processing**
 
-- 🔥 "See beyond what your eyes can see"
+- 🔥 "Confortare, Per Audacia Ad Astra"
 
 ##
 
