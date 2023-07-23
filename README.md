@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm SergioJr</h1>
 <h4 align="center">🌱 A NLP Engineer, Data Scientist and Programmer <a href="https://portfolio-jet-chi-78.vercel.app/index.html" target="_blank">portfolio</a> for more</h4>
-<h4>🔥 Confortare. Per Audacia Ad Astra</h4>
+<h4>☄️ Confortare. Per Audacia Ad Astra</h4>
 </div>
 
 -----
