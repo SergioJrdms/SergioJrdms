@@ -36,13 +36,12 @@
 <samp>
 <h2 align="center">About Me</h2>
  <p align="center">
-   <p>- I am a Natural Language Processing (NLP) Engineer with a degree in Master Professional in Hardware from Microlins College and Informatics for Internet from ETEC Centro Paula Souza, where I achieved outstanding performance. During my studies, I had the opportunity to apply leadership, group and project management, communication, and teaching skills while sharing my programming knowledge with my classmates. In addition to my academic background, I pursued additional knowledge in NLP, programming, and Data Science through self-learning and courses.
+   <p>- I am a Data Scientist with a degree in Master Professional in Hardware from Microlins College and Informatics for Internet from ETEC Centro Paula Souza, where I achieved outstanding performance. During my studies, I had the opportunity to apply leadership, group and project management, communication, and teaching skills while sharing my programming knowledge with my classmates. In addition to my academic background, I pursued additional knowledge in NLP, programming, and Data Science through self-learning and courses.
 I am committed to contributing to the advancement of these fields and readily open to new opportunities that allow me to develop my potential.</p>
 
 <p>- <strong>Key Skills:</strong></p>
 <ul>
   <p>✓ Strong skills in Natural Language Processing (Text Preprocessing, NER, sentiment analysis, text summarization, text classification, text generation, LSTMs, GRU, probabilistic and vector models, etc.)</p>
-  <p>✓ Chatbots (Rasa, Blip)</p>
   <p>✓ Machine Learning (Classification, clustering, regression, association rules, evaluation metrics, etc.)</p>
   <p>✓ General knowledge of Data Science (Data visualization, exploratory data analysis, statistics, linear and logistic regressions, time series, project management, storytelling, SQL databases)</p>
   <p>✓ Deep Learning focused on NLP (Neural Networks, ANN, CNN, RNN, embeddings)</p>
@@ -68,7 +67,7 @@ I am committed to contributing to the advancement of these fields and readily op
   <li>Astronomy and Astrophysics</li>
 </ul>
 
-<p>- I am committed to contributing to challenges in the field of Natural Language Processing, Data Science, and Programming, and I am open to new opportunities that allow me to apply my knowledge and skills. Feel free to contact me to learn more about my experiences and how I can add value to your company.</p>
+<p>- I am committed to contributing to challenges in the field of Data Science, NLP and Programming, and I am open to new opportunities that allow me to apply my knowledge and skills. Feel free to contact me to learn more about my experiences and how I can add value to your company.</p>
   </p>
  </samp>
 </div>
