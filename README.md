@@ -82,15 +82,15 @@ I am committed to contributing to the advancement of these fields and readily op
     <details open>
   <summary><h3>Languages</h3></summary>
             <p align="center">
-        <a href="https://github.com/DevSakazaki">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevSakazaki&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
+        <a href="https://github.com/SergioJrdms">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergioJrdms&langs_count=6&theme=gruvbox&layout=compact&hide_border=true"
           alt="SergioJr :: overall Top Langs " /></a>
       </p>
         <p align="center">
           <a href="https://github.com/DevSakazaki">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DevSakazaki&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SergioJrdms&theme=gruvbox&layout=compact&hide_border=true"
           alt="SergioJr :: Top Langs by repo" />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DevSakazaki&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SergioJrdms&theme=gruvbox&layout=compact&hide_border=true"
           alt="SergioJr :: Top Langs by commit" />
           </a>
         </p>
@@ -99,7 +99,7 @@ I am committed to contributing to the advancement of these fields and readily op
   <summary><h3>stats</h3></summary>
         <p align="center">
           <a href="https://github.com/DevSakazaki">
-          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DevSakazaki&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=SergioJrdms&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=1999AZZAR&theme=gruvbox&hide_border=true" />
           </a>
        </p>
